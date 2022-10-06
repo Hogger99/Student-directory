@@ -1,6 +1,3 @@
-#let's put all students into an array
-students = []
-
 def input_students
   puts "Please enter the names of the students"
   puts "To finish, just hit return twice"
